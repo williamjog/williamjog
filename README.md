@@ -6,7 +6,7 @@
 
 ### Welcome to my profile :blush:
 
- My name's William, I'm Brazilian and was born and currently live in Porto Alegre - state of Rio Grande do Sul. Also, I've a Bachelor in Business Administration
+ <p>My name's William, I'm Brazilian and was born and currently live in Porto Alegre - state of Rio Grande do Sul. Also, I've a Bachelor in Business Administration
       from <a target="_blank" href="http://www.saojudastadeu.edu.br/faculdade/">São Judas Tadeu</a>. Currently I attend the Analysis and Systems Development course
       at <a target="_blank" href="http://www.unisinos.br/">Unisinos</a> and am a Full-Stack Web Development student at <a target="_blank" href="https://www.betrybe.com/">Trybe</a>.</p>
 
