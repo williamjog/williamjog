@@ -1,10 +1,10 @@
-le Perse :man_technologist:
+# William Gomes :man_technologist:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamjog/)](https://www.linkedin.com/in/williamjog/)
 [![Email Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williamjog@hotmail.com)](mailto:williamjog@hotmail.com)
 
 
-### Welcome to my profile!
+### Welcome to my profile :blush:
 
 My name's William and I'm software development student. :school: 
 
