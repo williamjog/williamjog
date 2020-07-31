@@ -1,5 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamjog/)](https://www.linkedin.com/in/williamjog/)
-[![Email Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williamjog@hotmail.com)](mailto:williamjog@hotmail.com)
+[![Email Badge](https://cdn.pixabay.com/photo/2013/07/13/10/26/mail-157211_960_720.png)](mailto:williamjog@hotmail.com)
 
 ### Welcome to my profile! :smile:
 
