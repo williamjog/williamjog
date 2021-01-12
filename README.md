@@ -10,9 +10,7 @@ at <a target="_blank" href="http://www.unisinos.br/">Unisinos</a> and am a Full-
 I do believe that technology is present in all areas and with it we have the possibility to cause positive impacts in the world and I definitely want to be a part of it!
 
  - :blue_book: Currently studying in order to become a full-stack developer;
- - :heavy_check_mark: JavaScript 
- - :heavy_check_mark: Java
- - :heavy_check_mark: Python
+ - :heavy_check_mark: Java | JavaScript (ES6) | Python
  - :heavy_check_mark: React.JS | ContextAPI | Redux
  - :heavy_check_mark: SQL and MySQL
  
