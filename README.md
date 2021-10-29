@@ -9,7 +9,7 @@ at <a target="_blank" href="http://www.unisinos.br/">Unisinos</a> and I've succe
 
 I do believe that technology is present in all areas and with it we have the possibility to cause positive impacts in the world and I definitely want to be a part of it!
 
- - :heavy_check_mark: JavaScript (ES6+) | React.JS | ContextAPI | Redux | Angular
+ - :heavy_check_mark: JavaScript (ES6+) | React.JS | ContextAPI | Redux
  - :heavy_check_mark: MySQL | MongoDB | Node.JS | Express.JS | Jest
  
  ---
