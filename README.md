@@ -4,7 +4,7 @@
 ### Welcome to my profile! :smile:
 
 My name's William, I'm Brazilian and was born and currently live in Porto Alegre - state of Rio Grande do Sul. I've a Bachelor's Degree in Business Administration
-from <a target="_blank" href="http://www.saojudastadeu.edu.br/faculdade/">São Judas Tadeu</a>. Currently I'm attending the Analysis and Systems Development course
+from <a target="_blank" href="http://www.saojudastadeu.edu.br/faculdade/">São Judas Tadeu</a>. I have attended the Analysis and Systems Development course
 at <a target="_blank" href="http://www.unisinos.br/">Unisinos</a> and I've successfully completed the Full-Stack Web Development student at <a target="_blank" href="https://www.betrybe.com/">Trybe</a>.
 
 I do believe that technology is present in all areas and with it we have the possibility to cause positive impacts in the world and I definitely want to be a part of it!
